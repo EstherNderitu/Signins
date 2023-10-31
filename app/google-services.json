@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781080198672",
+    "project_id": "signins-89ad5",
+    "storage_bucket": "signins-89ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781080198672:android:1ac4f9f7e7f4246f559495",
+        "android_client_info": {
+          "package_name": "com.example.signins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKY9DGQUw6xHApTeBkDK2RY9DdUwkv2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

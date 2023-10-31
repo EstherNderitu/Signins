@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Signins</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_login">Click_to_login</string>
+    <string name="click_to_register">Click_to_register</string>
+</resources>
